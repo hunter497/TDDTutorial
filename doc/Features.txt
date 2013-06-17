@@ -1,0 +1,7 @@
+Features
+ User Story: A user should be able to add a new type of item to the application
+ Features: 
+	- An item type entity and a persistence layer that can store the item entity in the data store
+	- An item type domain service that can provide a list of item types in the data store
+	- A user interface to enable business users to list existing item types and create new ones
+	

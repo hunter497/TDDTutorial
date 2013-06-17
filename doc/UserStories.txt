@@ -1,0 +1,2 @@
+User Stories
+- A user should be able to add a new type of item to the application

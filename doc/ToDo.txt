@@ -1,0 +1,6 @@
+- Implement the first user story
+- Utilize GIT to send up the first workable solution to the user story
+- Create document for User Stories
+- Continue working on User Stories
+- Continue using TDD principles to complete the tutorial
+- Play with the finish tutorial to see if anything interesting can be done
